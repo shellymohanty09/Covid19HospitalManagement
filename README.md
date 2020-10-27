@@ -2,7 +2,7 @@
 
 Steps to Run code:
 
-1)	Download the entire source code in zipped format from our Github link given here: 
+1)	Download the entire source code in zipped format from our Github link given here: https://github.com/shellymohanty09/Covid19HospitalManagement 
 2)	Unzip the folder and save in the following file location: C:\xampp\htdocs
 3)	Start Apache and Mysql on your Xampp server.
 4)	Open phpMyAdmin on your browser and create the database named Hospitol. Import hospital.sql file from the project folder into this database.
